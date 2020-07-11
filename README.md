@@ -1,7 +1,7 @@
 <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/29935993/87229446-9c829a80-c3c5-11ea-95e1-7549ef3601fd.png">
 
 
-# Hi, I'm Ambuj :chicken:
+# Hi, I'm Ambuj :wave:
 
 Full-Stack | Software engineer :robot:. (In progress)
 
