@@ -3,9 +3,9 @@
 
 # Hi, I'm Ambuj :wave:
 
-Full-Stack | Software engineer :robot:. (In progress)
+Full-Stack | Software engineer :robot:. 
 
-Lovely Professional University Student. :man_technologist:
+Software Developer. :man_technologist:
 
 ## About me 
 
