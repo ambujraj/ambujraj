@@ -18,13 +18,7 @@ Software Developer. :man_technologist:
 
 ## Stats
 
-<p align="center">
- 
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ambujraj&show_icons=true&theme=synthwave" />
-
-
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ambujraj&show_icons=true&theme=synthwave" />
 
 ## Social media :mailbox_with_no_mail:
 
