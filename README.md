@@ -2,9 +2,7 @@
 
 # Hi, I'm Ambuj :wave:
 
-Full-Stack | Software engineer :robot:. 
-
-Software Developer. :man_technologist:
+Senior Software Engineer :robot:.
 
 ## About me 
 
