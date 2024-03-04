@@ -55,7 +55,7 @@ I am a Senior Software Engineer working in <img src="https://github.com/ambujraj
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="llama" src="https://img.shields.io/badge/-Llama-F05032?style=flat-square&logo=llama&logoColor=white" />
   <img alt="openai" src="https://img.shields.io/badge/-OpenAI-F05032?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="mistral" src="https://img.shields.io/badge/-Mistral-F05032?style=flat-square&logo=mistral&logoColor=white" />
+  <img alt="mistral" src="https://img.shields.io/badge/-MistralAI-F05032?style=flat-square&logo=mistralai&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-F7B93E?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
