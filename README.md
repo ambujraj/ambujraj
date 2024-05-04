@@ -17,11 +17,11 @@ I am a Senior Software Engineer working in <img src="https://github.com/ambujraj
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ambujraj/byteshare"><b>ByteShare</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ambujraj/byteshare?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ambujraj/byteshare?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ambujraj/byteshare?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ambujraj/byteshare?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/innovencelabs/byteshare"><b>ByteShare</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/innovencelabs/byteshare?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/innovencelabs/byteshare?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/innovencelabs/byteshare?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/innovencelabs/byteshare?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
