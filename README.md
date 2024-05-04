@@ -17,7 +17,7 @@ I am a Senior Software Engineer working in <img src="https://github.com/ambujraj
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/innovencelabs/byteshare"><b>innovencelabs/ByteShare</b></a></td>
+      <td><a href="https://github.com/innovencelabs/byteshare"><b>innovencelabs/byteshare</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/innovencelabs/byteshare?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/innovencelabs/byteshare?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/innovencelabs/byteshare?style=flat-square&labelColor=343b41"/></td>
